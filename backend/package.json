@@ -7,7 +7,7 @@
     "dev": "nodemon src/index.js",
     "worker": "node src/worker/ocrWorker.js",
     "test": "jest"
-},
+  },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^7.0.0",
@@ -22,7 +22,8 @@
     "jsonwebtoken": "^9.0.0",
     "pino": "^8.0.0",
     "morgan": "^1.10.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "dotenv": "^16.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.22",
