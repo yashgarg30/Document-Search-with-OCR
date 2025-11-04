@@ -12,7 +12,7 @@ export default function About() {
     </p>
     <p>
         With <strong>DocReader</strong>, you can effortlessly upload files in formats such as
-        <strong> PDF, PPT, EXCEL, DOCX, CSV,</strong> and <strong>TXT</strong>. Once uploaded, the built-in smart search
+        <strong> PDF, PPT, XLSX, DOCX, CSV,</strong> and <strong>TXT</strong>. Once uploaded, the built-in smart search
         engine helps you instantly locate keywords or phrases within your documents — saving you valuable
         time and boosting productivity.
     </p>
