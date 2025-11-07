@@ -264,16 +264,20 @@ Code quality is maintained with ESLint rules for:
 ## 📸 Screenshots
 
 ### Home Page - Light Mode
-![Home Page Light](./screenshots/home-light.png)
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 121148" src="https://github.com/user-attachments/assets/07d54e03-0ecc-454f-b79c-d1774c744a5c" />
+
 
 ### Document Viewer with Search
-![Document Viewer](./screenshots/viewer-search.png)
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 121740" src="https://github.com/user-attachments/assets/c108ea90-f614-4df6-91a9-cdf9c6691d1f" />
+
 
 ### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 121448" src="https://github.com/user-attachments/assets/cc92ea9f-e458-4eed-a0bc-a427c3d2c7f4" />
+
 
 ### About Page
-![About Page](./screenshots/about-page.png)
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 121529" src="https://github.com/user-attachments/assets/f0425199-8f67-4d4b-830c-5fe9863ac5cc" />
+
 
 *Note: Add actual screenshots to a `screenshots` folder in your repository*
 
