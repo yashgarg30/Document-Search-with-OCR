@@ -279,12 +279,6 @@ Code quality is maintained with ESLint rules for:
 <img width="1920" height="1020" alt="Screenshot 2025-11-06 121529" src="https://github.com/user-attachments/assets/f0425199-8f67-4d4b-830c-5fe9863ac5cc" />
 
 
-*Note: Add actual screenshots to a `screenshots` folder in your repository*
-
-## 🎥 Demo Video
-
-[Link to Demo Video] - *Add your demonstration video link here*
-
 ## 📊 Project Statistics
 
 - **Total Components**: 5 main components + 1 main App component
